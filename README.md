@@ -10,5 +10,6 @@
 
 -----
 
-[Inferrable Languages](https://github.com/ericung/InferrableLanguages)
+Ung, E. (2024). [Inferrable Languages](https://github.com/ericung/InferrableLanguages)
+. https://github.com/ericung/InferrableLanguages
 
