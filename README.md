@@ -21,3 +21,4 @@
 Ung, E. (2024). [Inferrable Languages](https://github.com/ericung/InferrableLanguages)
 . https://github.com/ericung/InferrableLanguages
 
+Tao, T. (n.d.). Home page. UCLA Department of Mathematics [1](https://www.math.ucla.edu/~tao/)
